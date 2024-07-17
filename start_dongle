@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo Starting MdrdioBLEDongleConsole...
+mono /home/pi/bin/dongle/MdrdioBLEDongleConsole.exe
+echo all done!
